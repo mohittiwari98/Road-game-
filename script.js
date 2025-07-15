@@ -1,4 +1,4 @@
-//script file o
+//script file or
 const counterDOM = document.getElementById("counter");
 const endDOM = document.getElementById("end");
 

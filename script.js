@@ -14,7 +14,7 @@ const camera = new THREE.OrthographicCamera(
   10000
 );
 
-//camera
+//camera 
 camera.rotation.x = (50 * Math.PI) / 180;
 camera.rotation.y = (20 * Math.PI) / 180;
 camera.rotation.z = (10 * Math.PI) / 180;

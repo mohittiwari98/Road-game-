@@ -19,7 +19,7 @@ camera.rotation.x = (50 * Math.PI) / 180;
 camera.rotation.y = (20 * Math.PI) / 180;
 camera.rotation.z = (10 * Math.PI) / 180;
 
-//camer
+//camera
 const initialCameraPositionY = -Math.tan(camera.rotation.x) * distance;
 const initialCameraPositionX =
   Math.tan(camera.rotation.y) *
